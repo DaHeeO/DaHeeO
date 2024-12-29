@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @DaHeeO
-- 👀 I’m interested in ML
+- 👀 I’m interested in FRONTEND
 - 🌱 I’m currently learning Software
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me dhekgml234@gmail.com
 
 <!---
