@@ -49,13 +49,13 @@
 
 <br>
 
-<h3 align="center">Currently Exploring</h3>
+<!-- <h3 align="center">Currently Exploring</h3>
 
 <div align="center">
 
 <img src="https://img.shields.io/badge/NumPy-71717A?style=flat-square&logo=numpy&logoColor=white"/>
 <img src="https://img.shields.io/badge/pandas-71717A?style=flat-square&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/Data%20Analysis-71717A?style=flat-square"/>
+<img src="https://img.shields.io/badge/Data%20Analysis-71717A?style=flat-square"/> -->
 
 </div>
 
