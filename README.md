@@ -1,151 +1,124 @@
 
-<!-- =========================================
-     DaHeeO | GitHub Profile
-     Modern Minimal Theme
-========================================= -->
-
 <div align="center">
 
 <!-- HEADER -->
-
 <img
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:52525B&height=200&section=header&text=DaHeeO&fontSize=60&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn"
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:050B08,50:163124,100:050B08&height=190&section=header&text=DaHeeO&fontSize=65&fontColor=4ADE80&fontAlignY=38&animation=fadeIn"
   width="100%"
-  alt="DaHeeO Header"
+  alt="DaHeeO"
 />
 
-<!-- TYPING ANIMATION -->
-
+<!-- ANIMATED TYPING -->
 <img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=3000&pause=1200&color=858585&center=true&vCenter=true&width=500&height=50&lines=Hello%2C+World!+I'm+Dahee;Frontend+Developer;Build.+Learn.+Improve."
-  alt="Typing SVG"
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1200&color=4ADE80&center=true&vCenter=true&width=500&height=50&lines=Hello%2C+World!+I'm+Dahee;Frontend+Developer;Build.+Learn.+Improve."
+  alt="Typing Animation"
 />
-
-<br>
-
-<sub>Keep learning, keep building.</sub>
 
 <br><br>
-
-<!-- CONTACT -->
 
 <a href="mailto:dhekgml234@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-18181B?style=flat-square&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/EMAIL-101C15?style=for-the-badge&logo=gmail&logoColor=4ADE80"/>
 </a>
 <a href="https://github.com/DaHeeO">
-  <img src="https://img.shields.io/badge/GitHub-18181B?style=flat-square&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GITHUB-101C15?style=for-the-badge&logo=github&logoColor=4ADE80"/>
 </a>
-
-</div>
-
-<br>
-
-<!-- =========================================
-     TECH STACK
-========================================= -->
-
-<h3 align="center">TECH STACK</h3>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/JavaScript-27272A?style=for-the-badge&logo=javascript&logoColor=white"/>
-<img src="https://img.shields.io/badge/TypeScript-27272A?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-27272A?style=for-the-badge&logo=react&logoColor=white"/>
-<img src="https://img.shields.io/badge/React_Native-27272A?style=for-the-badge&logo=react&logoColor=white"/>
-
-<br>
-
-<img src="https://img.shields.io/badge/Python-52525B?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-52525B?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-52525B?style=for-the-badge&logo=git&logoColor=white"/>
-
-</div>
 
 <br><br>
 
-<!-- =========================================
-     PROBLEM SOLVING
-========================================= -->
+<!-- TECH STACK -->
+<h2>TECH STACK</h2>
 
-<h3 align="center">PROBLEM SOLVING</h3>
+<img src="https://img.shields.io/badge/JavaScript-101C15?style=for-the-badge&logo=javascript&logoColor=4ADE80"/>
+<img src="https://img.shields.io/badge/TypeScript-101C15?style=for-the-badge&logo=typescript&logoColor=4ADE80"/>
+<img src="https://img.shields.io/badge/React-101C15?style=for-the-badge&logo=react&logoColor=4ADE80"/>
+<img src="https://img.shields.io/badge/React_Native-101C15?style=for-the-badge&logo=react&logoColor=4ADE80"/>
 
-<div align="center">
+<br>
+
+<img src="https://img.shields.io/badge/Python-17241C?style=for-the-badge&logo=python&logoColor=86E7A7"/>
+<img src="https://img.shields.io/badge/Java-17241C?style=for-the-badge&logo=openjdk&logoColor=86E7A7"/>
+<img src="https://img.shields.io/badge/Git-17241C?style=for-the-badge&logo=git&logoColor=86E7A7"/>
+
+<br><br>
+
+<!-- GITHUB ANALYTICS -->
+<h2>GITHUB ANALYTICS</h2>
+
+<img
+  src="https://github-readme-stats.vercel.app/api?username=DaHeeO&show_icons=true&bg_color=080D0A&title_color=4ADE80&text_color=B5C6BB&icon_color=4ADE80&border_color=315C43"
+  width="48%"
+  alt="GitHub Stats"
+/>
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaHeeO&layout=compact&langs_count=8&bg_color=080D0A&title_color=4ADE80&text_color=B5C6BB&border_color=315C43"
+  width="48%"
+  alt="Languages"
+/>
+
+<br><br>
+
+<!-- SOLVED.AC -->
+<h2>PROBLEM SOLVING</h2>
 
 <a href="https://solved.ac/jenny9909/">
   <img
     src="https://mazassumnida.wtf/api/v2/generate_badge?boj=jenny9909"
+    width="400"
     alt="Solved.ac Profile"
-    width="400"
   />
 </a>
 
-</div>
-
 <br><br>
 
-<!-- =========================================
-     MOST USED LANGUAGES
-========================================= -->
-
-<h3 align="center">MOST USED LANGUAGES</h3>
-
-<div align="center">
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=DaHeeO&amp;layout=compact&amp;langs_count=8&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=E5E7EB&amp;text_color=9CA3AF"
-  />
-  <img
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=DaHeeO&amp;layout=compact&amp;langs_count=8&amp;hide_border=true&amp;bg_color=FFFFFF&amp;title_color=18181B&amp;text_color=52525B"
-    width="400"
-    alt="Most Used Languages"
-  />
-</picture>
-
-</div>
-
-<br><br>
-
-<!-- =========================================
-     FEATURED PROJECTS
-========================================= -->
-
-<h3 align="center">FEATURED PROJECTS</h3>
-
-<div align="center">
-
-<a href="https://github.com/DaHeeO/MESC">
-  <img src="https://img.shields.io/badge/MESC-18181B?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://github.com/DaHeeO/SquareV2">
-  <img src="https://img.shields.io/badge/SquareV2-3F3F46?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://github.com/DaHeeO/SSAK3">
-  <img src="https://img.shields.io/badge/SSAK3-52525B?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
-
-<br><br>
-
-<!-- =========================================
-     FOOTER
-========================================= -->
-
-<div align="center">
+<!-- CONTRIBUTION GRAPH -->
+<h2>CONTRIBUTION ACTIVITY</h2>
 
 <img
-  src="https://komarev.com/ghpvc/?username=DaHeeO&label=PROFILE+VIEWS&color=52525B&style=flat-square"
-  alt="Profile Views"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=DaHeeO&bg_color=080D0A&color=4ADE80&line=4ADE80&point=FFFFFF&area=true&area_color=245B42&hide_border=true"
+  width="98%"
+  alt="Contribution Graph"
 />
 
 <br><br>
 
+<!-- PROJECTS -->
+<h2>FEATURED PROJECTS</h2>
+
+<a href="https://github.com/DaHeeO/MESC">
+  <img
+    src="https://github-readme-stats.vercel.app/api/pin/?username=DaHeeO&repo=MESC&bg_color=080D0A&title_color=4ADE80&text_color=B5C6BB&icon_color=4ADE80&border_color=315C43"
+    width="48%"
+    alt="MESC"
+  />
+</a>
+<a href="https://github.com/DaHeeO/SquareV2">
+  <img
+    src="https://github-readme-stats.vercel.app/api/pin/?username=DaHeeO&repo=SquareV2&bg_color=080D0A&title_color=4ADE80&text_color=B5C6BB&icon_color=4ADE80&border_color=315C43"
+    width="48%"
+    alt="SquareV2"
+  />
+</a>
+<a href="https://github.com/DaHeeO/SSAK3">
+  <img
+    src="https://github-readme-stats.vercel.app/api/pin/?username=DaHeeO&repo=SSAK3&bg_color=080D0A&title_color=4ADE80&text_color=B5C6BB&icon_color=4ADE80&border_color=315C43"
+    width="48%"
+    alt="SSAK3"
+  />
+</a>
+
+<br><br>
+
+<!-- VISITOR COUNT -->
 <img
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:52525B&height=100&section=footer"
+  src="https://komarev.com/ghpvc/?username=DaHeeO&label=PROFILE+VIEWS&color=2E7650&style=for-the-badge"
+  alt="Profile Views"
+/>
+
+<br>
+
+<!-- FOOTER -->
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:050B08,50:163124,100:050B08&height=110&section=footer"
   width="100%"
   alt="Footer"
 />
