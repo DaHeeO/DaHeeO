@@ -41,23 +41,20 @@
 
 <br><br>
 
-<!-- GITHUB ANALYTICS -->
+<div align="center">
+
 <h2>GITHUB ANALYTICS</h2>
 
-<img
-  src="https://github-readme-stats.vercel.app/api?username=DaHeeO&show_icons=true&bg_color=080D0A&title_color=4ADE80&text_color=B5C6BB&icon_color=4ADE80&border_color=315C43"
-  width="48%"
-  alt="GitHub Stats"
-/>
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaHeeO&layout=compact&langs_count=8&bg_color=080D0A&title_color=4ADE80&text_color=B5C6BB&border_color=315C43"
-  width="48%"
-  alt="Languages"
-/>
+<img src="./profile/stats.svg"
+     width="48%"
+     alt="GitHub Stats"/>
+
+<img src="./profile/languages.svg"
+     width="48%"
+     alt="Languages"/>
 
 <br><br>
 
-<!-- SOLVED.AC -->
 <h2>PROBLEM SOLVING</h2>
 
 <a href="https://solved.ac/jenny9909/">
@@ -69,6 +66,31 @@
 </a>
 
 <br><br>
+
+<h2>FEATURED PROJECTS</h2>
+
+<a href="https://github.com/DaHeeO/MESC">
+  <img src="./profile/mesc.svg"
+       width="48%"
+       alt="MESC"/>
+</a>
+
+<a href="https://github.com/DaHeeO/SquareV2">
+  <img src="./profile/squarev2.svg"
+       width="48%"
+       alt="SquareV2"/>
+</a>
+
+<br>
+
+<a href="https://github.com/DaHeeO/SSAK3">
+  <img src="./profile/ssak3.svg"
+       width="48%"
+       alt="SSAK3"/>
+</a>
+
+</div>
+
 
 <!-- CONTRIBUTION GRAPH -->
 <h2>CONTRIBUTION ACTIVITY</h2>
