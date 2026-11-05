@@ -97,6 +97,24 @@
 
 <br>
 
+<br>
+
+<h3 align="center">Problem Solving</h3>
+
+<div align="center">
+
+<a href="https://solved.ac/jenny9909/">
+  <img
+    src="https://mazassumnida.wtf/api/v2/generate_badge?boj=jenny9909"
+    width="350"
+    alt="Solved.ac Badge"
+  />
+</a>
+
+</div>
+
+<br>
+
 <h3 align="center">Contribution Activity</h3>
 
 <div align="center">
