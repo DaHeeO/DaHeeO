@@ -97,7 +97,8 @@
 
 <br>
 
-<h3 align="center">Contribution Activity</h3>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jenny9909)](https://solved.ac/jenny9909/)
+<!-- <h3 align="center">Contribution Activity</h3>
 
 <div align="center">
 
@@ -113,7 +114,7 @@
   />
 </picture>
 
-</div>
+</div> -->
 
 <br>
 
