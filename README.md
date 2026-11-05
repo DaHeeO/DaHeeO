@@ -1,47 +1,54 @@
 
-<!-- =====================================
-     DaHeeO | SOFT NEON GREEN
-     GitHub Profile README
-===================================== -->
+<!--
+  ============================================
+       DaHeeO | BLACK × SOFT NEON GREEN
+  ============================================
+-->
 
 <div align="center">
 
 <!-- HEADER -->
 
 <img
-  src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:050B08,50:163124,100:050B08&amp;height=200&amp;section=header&amp;text=DaHeeO&amp;fontSize=68&amp;fontColor=4ADE80&amp;fontAlignY=38&amp;animation=fadeIn"
+  src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:050807,50:10291B,100:050807&amp;height=220&amp;section=header&amp;text=DaHeeO&amp;fontSize=75&amp;fontColor=4ADE80&amp;fontAlignY=45&amp;animation=fadeIn"
   width="100%"
   alt="DaHeeO"
 />
 
+<br>
+
 <!-- TYPING ANIMATION -->
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=20&amp;duration=3000&amp;pause=1200&amp;color=4ADE80&amp;center=true&amp;vCenter=true&amp;width=500&amp;height=50&amp;lines=Hello%2C+World!+I'm+Dahee;Frontend+Developer;Build.+Learn.+Improve."
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=21&amp;duration=2800&amp;pause=1100&amp;color=4ADE80&amp;background=050807&amp;center=true&amp;vCenter=true&amp;width=520&amp;height=60&amp;lines=%24+whoami;Hello%2C+I'm+Dahee!;Frontend+Developer;Build.+Learn.+Improve."
   alt="Typing Animation"
 />
-
-<br>
-
-<sub>BUILD SOMETHING MEANINGFUL.</sub>
 
 <br><br>
 
 <!-- CONTACT -->
 
 <a href="mailto:dhekgml234@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-101C15?style=for-the-badge&amp;logo=gmail&amp;logoColor=4ADE80" alt="Gmail"/>
+  <img src="https://img.shields.io/badge/GMAIL-101C15?style=for-the-badge&amp;logo=gmail&amp;logoColor=4ADE80" alt="Gmail"/>
 </a>
 &nbsp;
 <a href="https://github.com/DaHeeO">
-  <img src="https://img.shields.io/badge/GitHub-101C15?style=for-the-badge&amp;logo=github&amp;logoColor=4ADE80" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GITHUB-101C15?style=for-the-badge&amp;logo=github&amp;logoColor=4ADE80" alt="GitHub"/>
 </a>
 
-<br><br>
+<br><br><br>
 
-<!-- TECH STACK -->
+<!-- ============================================
+     TECH STACK
+============================================ -->
 
-<h2>TECH STACK</h2>
+<img
+  src="https://capsule-render.vercel.app/api?type=rect&amp;color=050807&amp;height=55&amp;text=01%20%2F%20TECH%20STACK&amp;fontSize=25&amp;fontColor=4ADE80"
+  width="100%"
+  alt="Tech Stack"
+/>
+
+<br>
 
 <img src="https://img.shields.io/badge/JavaScript-101C15?style=for-the-badge&amp;logo=javascript&amp;logoColor=4ADE80"/>
 <img src="https://img.shields.io/badge/TypeScript-101C15?style=for-the-badge&amp;logo=typescript&amp;logoColor=4ADE80"/>
@@ -50,75 +57,96 @@
 
 <br>
 
-<img src="https://img.shields.io/badge/Python-17241C?style=for-the-badge&amp;logo=python&amp;logoColor=86E7A7"/>
-<img src="https://img.shields.io/badge/Java-17241C?style=for-the-badge&amp;logo=openjdk&amp;logoColor=86E7A7"/>
-<img src="https://img.shields.io/badge/Git-17241C?style=for-the-badge&amp;logo=git&amp;logoColor=86E7A7"/>
+<img src="https://img.shields.io/badge/Python-101C15?style=for-the-badge&amp;logo=python&amp;logoColor=4ADE80"/>
+<img src="https://img.shields.io/badge/Java-101C15?style=for-the-badge&amp;logo=openjdk&amp;logoColor=4ADE80"/>
+<img src="https://img.shields.io/badge/Git-101C15?style=for-the-badge&amp;logo=git&amp;logoColor=4ADE80"/>
 
-<br><br>
+<br><br><br>
 
-<!-- GITHUB ANALYTICS -->
-
-<h2>GITHUB ANALYTICS</h2>
+<!-- ============================================
+     CONTRIBUTION GARDEN
+============================================ -->
 
 <img
-  src="./profile/stats.svg"
-  width="48%"
-  alt="GitHub Stats"
+  src="https://capsule-render.vercel.app/api?type=rect&amp;color=050807&amp;height=55&amp;text=02%20%2F%20CONTRIBUTION%20GARDEN&amp;fontSize=24&amp;fontColor=4ADE80"
+  width="100%"
+  alt="Contribution Garden"
 />
+
+<br>
+
 <img
-  src="./profile/languages.svg"
-  width="48%"
-  alt="Top Languages"
+  src="./profile-3d-contrib/profile-night-green.svg"
+  width="95%"
+  alt="3D GitHub Contribution Garden"
 />
 
-<br><br>
+<br><br><br>
 
-<!-- PROBLEM SOLVING -->
+<!-- ============================================
+     PROBLEM SOLVING
+============================================ -->
 
-<h2>PROBLEM SOLVING</h2>
+<img
+  src="https://capsule-render.vercel.app/api?type=rect&amp;color=050807&amp;height=55&amp;text=03%20%2F%20PROBLEM%20SOLVING&amp;fontSize=24&amp;fontColor=4ADE80"
+  width="100%"
+  alt="Problem Solving"
+/>
+
+<br>
 
 <a href="https://solved.ac/jenny9909/">
   <img
     src="https://mazassumnida.wtf/api/v2/generate_badge?boj=jenny9909"
-    width="400"
+    width="390"
     alt="Solved.ac Profile"
   />
 </a>
 
-<br><br>
+<br><br><br>
 
-<!-- FEATURED PROJECTS -->
+<!-- ============================================
+     FEATURED PROJECTS
+============================================ -->
 
-<h2>FEATURED PROJECTS</h2>
+<img
+  src="https://capsule-render.vercel.app/api?type=rect&amp;color=050807&amp;height=55&amp;text=04%20%2F%20FEATURED%20PROJECTS&amp;fontSize=24&amp;fontColor=4ADE80"
+  width="100%"
+  alt="Featured Projects"
+/>
+
+<br>
 
 <a href="https://github.com/DaHeeO/MESC">
   <img
-    src="./profile/mesc.svg"
-    width="48%"
+    src="https://img.shields.io/badge/MESC-View%20Repository-101C15?style=for-the-badge&amp;logo=github&amp;logoColor=4ADE80&amp;labelColor=16452B"
     alt="MESC"
   />
 </a>
+
+<br><br>
+
 <a href="https://github.com/DaHeeO/SquareV2">
   <img
-    src="./profile/squarev2.svg"
-    width="48%"
+    src="https://img.shields.io/badge/SquareV2-View%20Repository-101C15?style=for-the-badge&amp;logo=github&amp;logoColor=4ADE80&amp;labelColor=16452B"
     alt="SquareV2"
   />
 </a>
 
-<br>
+<br><br>
 
 <a href="https://github.com/DaHeeO/SSAK3">
   <img
-    src="./profile/ssak3.svg"
-    width="48%"
+    src="https://img.shields.io/badge/SSAK3-View%20Repository-101C15?style=for-the-badge&amp;logo=github&amp;logoColor=4ADE80&amp;labelColor=16452B"
     alt="SSAK3"
   />
 </a>
 
-<br><br>
+<br><br><br>
 
-<!-- PROFILE VIEWS -->
+<!-- ============================================
+     FOOTER
+============================================ -->
 
 <img
   src="https://komarev.com/ghpvc/?username=DaHeeO&amp;label=PROFILE+VIEWS&amp;color=2E7650&amp;style=for-the-badge"
@@ -127,10 +155,8 @@
 
 <br><br>
 
-<!-- FOOTER -->
-
 <img
-  src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:050B08,50:163124,100:050B08&amp;height=110&amp;section=footer"
+  src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:050807,50:10291B,100:050807&amp;height=110&amp;section=footer"
   width="100%"
   alt="Footer"
 />
