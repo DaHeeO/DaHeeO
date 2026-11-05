@@ -61,13 +61,13 @@
 
 <br>
 
-<h3 align="center">GitHub Analytics</h3>
+<!-- <h3 align="center">GitHub Analytics</h3> -->
 
 <div align="center">
 
 <!-- GitHub Stats: Light / Dark -->
-
-<picture>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jenny9909)](https://solved.ac/jenny9909/)
+<!-- <picture>
   <source
     media="(prefers-color-scheme: dark)"
     srcset="https://github-stats-extended.vercel.app/api?username=DaHeeO&show_icons=true&hide_border=true&bg_color=0D1117&title_color=E5E7EB&text_color=9CA3AF&icon_color=9CA3AF"
@@ -77,7 +77,7 @@
     alt="GitHub Stats"
     src="https://github-stats-extended.vercel.app/api?username=DaHeeO&show_icons=true&hide_border=true&bg_color=FFFFFF&title_color=111827&text_color=6B7280&icon_color=6B7280"
   />
-</picture>
+</picture> -->
 
 <!-- Most Used Languages: Light / Dark -->
 
@@ -97,7 +97,7 @@
 
 <br>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jenny9909)](https://solved.ac/jenny9909/)
+
 <!-- <h3 align="center">Contribution Activity</h3>
 
 <div align="center">
